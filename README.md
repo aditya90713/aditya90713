@@ -1,23 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Aditya%20Gaikwad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Aditya%20Gaikwad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20%7C%20Agentic%20AI%20%7C%20Python%20Backend%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+Systems;RAG+%7C+Agentic+RAG+%7C+LLM+Orchestration;FastAPI+%2B+LangChain+%2B+LangGraph;Turning+LLMs+into+Scalable+Backends" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Architecting+Production-Grade+AI+Systems;RAG+%2B+Agentic+RAG+%2B+Multi-Agent+Orchestration;LLM+Gateways+%7C+FastAPI+%7C+Cloud-Native+AI;From+LLM+Capability+to+Scalable+Infrastructure" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aditya-gaikwad-643974227/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/gaikwadcode" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/aditya_gaikwad41" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/adityagaikwad415" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/aditya-gaikwad-643974227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/gaikwadcode" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/aditya_gaikwad41" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adityagaikwad415" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=aditya90713&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
@@ -25,65 +17,93 @@
 
 <br/>
 
-## 🧬 About Me
-
-```yaml
-engineer:
-  name: "Aditya Gaikwad"
-  role: "Python Backend & Generative AI Engineer"
-  company: "Capgemini"
-  focus:
-    - Generative AI & Agentic AI systems
-    - Python backend services with FastAPI
-    - RAG & Agentic RAG architectures
-    - LLM orchestration with LangChain & LangGraph
-    - Azure AI / Azure OpenAI & cloud-native apps
-    - MongoDB, PostgreSQL & Vector Databases
-    - Redis, Celery & distributed processing
-    - Docker, Kubernetes & CI/CD
-    - LLM evaluation & AI observability
-  philosophy: >
-    I turn LLM capabilities into real-world, scalable backend
-    systems — not just AI demos.
-```
-
-<br/>
-
-## ⚡ Tech Arsenal
+## 🧠 System Profile
 
 <div align="center">
 
-### Backend & Core
-<img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark" />
-
-### Generative & Agentic AI
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic_RAG-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square"/>
-
-### Databases & Vector Search
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
-<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github&theme=dark" />
+```
+┌─────────────────────────────────────────────────────────┐
+│  AGENT: Aditya Gaikwad                                   │
+│  ROLE:  Generative AI & Python Backend Engineer          │
+│  ORG:   Capgemini                                        │
+│  STATUS: Deploying LLMs into production systems          │
+├─────────────────────────────────────────────────────────┤
+│  I design and ship Generative AI & Agentic AI systems    │
+│  end-to-end — from LLM orchestration and RAG pipelines   │
+│  to the FastAPI microservices and cloud infrastructure   │
+│  that run them at scale.                                 │
+│                                                            │
+│  My work sits at the intersection of AI reasoning and    │
+│  backend engineering: reliable APIs, distributed task    │
+│  processing, and observability — built for systems that  │
+│  actually run in production, not just demo well.         │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br/>
 
-## 🎯 What I'm Exploring Right Now
+## ⚙️ Core Specialization
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**🤖 Generative & Agentic AI**
+- Agentic AI system design & orchestration
+- RAG & Agentic RAG architectures
+- Multi-step LLM reasoning workflows
+- LangChain / LangGraph pipelines
+- LLM Gateway design & routing
+- Prompt engineering & LLM evaluation
+- AI observability & quality scoring
+
+</td>
+<td valign="top" width="50%">
+
+**🐍 Backend & Infrastructure**
+- FastAPI microservice architecture
+- Async PostgreSQL & MongoDB
+- Redis caching & Celery task pipelines
+- Vector databases & semantic search
+- Azure OpenAI / Azure Cognitive Services
+- Docker & Kubernetes deployments
+- CI/CD for AI-driven systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🔗 Agentic AI Architectures | 🧠 Multi-Agent Systems | 🔍 Advanced RAG Strategies |
-|:---:|:---:|:---:|
-| 📊 LLM Eval & Observability | ⚡ Production FastAPI | 🐳 Docker & Kubernetes |
-| ☁️ Cloud-Native AI Deployments | 🔄 Redis & Celery at Scale | 🤖 LLM Gateway Design |
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark" />
+
+**AI / LLM Engineering**
+<br/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_RAG-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_Evaluation-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square"/>
+
+**Data & Vector Search**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
+<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github&theme=dark" />
 
 </div>
 
@@ -116,18 +136,11 @@ engineer:
 
 <br/>
 
-## 🤖 A Note From My AI Side
-
-> *"Every model I orchestrate, every pipeline I build, every agent I deploy — is one step closer to systems that don't just respond, but reason."*
-
-<br/>
-
 <div align="center">
 
-### 💬 Let's Build Something Intelligent
+### 🤝 Let's Build Something Intelligent
 
-Interested in **Generative AI**, **Agentic AI**, **RAG systems**, or **scalable Python backends**?
-Let's connect and build something that thinks.
+Open to conversations on **Generative AI**, **Agentic AI**, **RAG at scale**, and **production AI backends**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer"/>
 
